@@ -6,8 +6,9 @@ sticker: emoji//1f40d
 
 
 ### مقایسه‌ی زبان تولد چند زبان برنامه‌نویسی:
+![](./img/Pasted_image_20240816004233.png)
 
-![[./img/Pasted image 20240816004233.png]]
+
 
 
 
@@ -35,43 +36,43 @@ sticker: emoji//1f40d
 
 
 #### 1- pandas (data science)
-![[./img/Pasted image 20240816010038.png]]
+![](./img/Pasted_image_20240816010038.png)
 
 
 
 #### 2- matplotlib (data science)
-![[./img/Pasted image 20240816010244.png]]
+![](./img/Pasted_image_20240816010244.png)
 
 
 
 #### 3- Django (backend framework)
-![[./img/Pasted image 20240816010406.png]]
+![](./img/Pasted_image_20240816010406.png)
 
 
 
 #### 4- FastAPI (backend framework)
-![[./img/Pasted image 20240816010550.png]]
+![](./img/Pasted_image_20240816010550.png)
 
 
 
 #### 5- SQLAlchemy (DB management lib for python)
-![[./img/Pasted image 20240816011124.png]]
+![](./img/Pasted_image_20240816011124.png)
 
 
 
 
 #### 6- Pillow (image processing library)
-![[./img/Pasted image 20240816010858.png]]
+![](./img/Pasted_image_20240816010858.png)
 
 
 
 #### 7- Biopython (Bio informatics library)
-![[./img/Pasted image 20240816011018.png]]
+![](./img/Pasted_image_20240816011018.png)
 
 
 
 #### 8- NumPy (data science)
-![[./img/Pasted image 20240816011255.png]]
+![](./img/Pasted_image_20240816011255.png)
 
 
 
@@ -94,7 +95,7 @@ sticker: emoji//1f40d
 
 
 ### چند مورد از مزایا و معایب پایتون در قالب جدول: 
-![[./img/Pasted image 20240816005805.png]]
+![](./img/Pasted_image_20240816005805.png)
 
 
 

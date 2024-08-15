@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98be15a441cb9165",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 400.5
   },
   "right": {
     "id": "8972a8b9f552c9b1",
@@ -158,19 +166,20 @@
   },
   "active": "eb460b671f825529",
   "lastOpenFiles": [
+    "img/Pasted_image_20240816011255.png",
+    "img/Pasted_image_20240816011124.png",
+    "img/Pasted_image_20240816011018.png",
+    "img/Pasted_image_20240816010858.png",
+    "img/Pasted_image_20240816010550.png",
+    "img/Pasted_image_20240816010406.png",
+    "img/Pasted_image_20240816010244.png",
+    "img/Pasted_image_20240816010038.png",
+    "img/Pasted_image_20240816005805.png",
+    "img/Pasted_image_20240816004233.png",
+    "img/Pasted image 20240816004233.png",
     "python.pdf",
     "variable/معرفی متغیرها در پایتون.md",
     "variable",
-    "img/Pasted image 20240816011255.png",
-    "img/Pasted image 20240816011124.png",
-    "img/Pasted image 20240816011018.png",
-    "img/Pasted image 20240816010858.png",
-    "img/Pasted image 20240816010550.png",
-    "img/Pasted image 20240816010406.png",
-    "img/Pasted image 20240816010244.png",
-    "img/Pasted image 20240816010038.png",
-    "img/Pasted image 20240816005805.png",
-    "img/Pasted image 20240816004233.png",
     "img",
     "PYTHON.md",
     "README.md",
